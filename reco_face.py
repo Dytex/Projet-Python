@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Mar 11 14:28:17 2020
-
 @author: gateb
 """
 #import numpy, opencv et scipy 
